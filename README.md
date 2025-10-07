@@ -16,30 +16,30 @@ Kaknnajyosula Harsha Vardhan  -     TESTING ENGINEER
 
 Contact: tejasurya67049@gmail.com
 
-#Contents
+--------Contents---------
 
---About--
+About
 
---Architecture Flow chart--
+Architecture Flow chart
 
---Block Diagrams--
+Block Diagrams
 
---schematics--
+schematics
 
---layouts--
+layouts
 
---3D files--
+3D files
 
---UI_Dashboard--
+UI_Dashboard
 
---Security--
+Security
 
---Latency--
+Latency
 
---Hybrid Switching--
+Hybrid Switching
 
---Bill Of Materials--
+Bill Of Materials
 
---images--
+images
 
 
