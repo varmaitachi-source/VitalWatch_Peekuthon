@@ -1,8 +1,11 @@
 Vital Watch - Hardware Repository
 
+
+
 Hardware details for the Vital environment - Block diagrams , architecture , flow ,  Schematics , Layouts , 3D files , testing results (proofs of the concepts)
 
-Team : ELECTROSAPIENS
+
+--------Team : ELECTROSAPIENS----------
 
 Kalidindi Akash Varma         -     TEAM LEAD
 
