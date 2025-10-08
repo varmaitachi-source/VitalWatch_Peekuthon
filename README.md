@@ -46,3 +46,4 @@ Bill Of Materials
 images
 
 
+We have provided all the required data in this repository. 
