@@ -1,4 +1,4 @@
-Vital Watch - Hardware Repository
+# Vital Watch - Hardware Repository
 
 
 
@@ -19,31 +19,24 @@ Kaknnajyosula Harsha Vardhan  -     TESTING ENGINEER
 
 Contact: tejasurya67049@gmail.com
 
---------Contents---------
+## Repository Overview
+| Directory | Description |
+|------------|-------------|
+| About | Overview of the project and its goals |
+| Architecture Flow chart | System and workflow diagrams |
+| Block Diagrams | Hardware and signal path representations |
+| schematics | Detailed electrical connections |
+| layouts | PCB routing and placement |
+| 3D files | 3D visualization and enclosure support |
+| UI_Dashboard | Application and interface design |
+| Security | AES encryption and data safety mechanisms |
+| Latency | Communication speed tests |
+| Hybrid Switching | Online-offline automatic mode switching |
+| Bill Of Materials | Components list and sourcing |
+| images | Visual documentation |
 
-About
-
-Architecture Flow chart
-
-Block Diagrams
-
-schematics
-
-layouts
-
-3D files
-
-UI_Dashboard
-
-Security
-
-Latency
-
-Hybrid Switching
-
-Bill Of Materials
-
-images
 
 
 We have provided all the required data in this repository. 
+
+
