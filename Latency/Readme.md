@@ -1,1 +1,10 @@
-This directory presents the definitive results of our lab tests on low-latency performance. 
+# Latency Testing
+
+This section includes test data and results demonstrating the ultra-low latency of the Vital Watch system.
+
+## Key Results
+- Average data transmission latency: **< 15 ms** per packet.
+- Near-instantaneous updates on the dashboard.
+- Comparison between Wi-Fi-based and ESP-NOW-based communication.
+
+Graphs, serial logs, and comparison tables are included to validate the performance.
