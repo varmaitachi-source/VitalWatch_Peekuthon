@@ -1,6 +1,6 @@
-# This directory explains the unique architecture we have used in our Vital Environment
+## This directory explains the unique architecture we have used in our Vital Environment
 
-## Concept :
+ Concept :
 
 Our ward monitoring architecture is designed for maximum reliability. Multiple Vital Watch wearables worn by patients act as nodes that transmit encrypted health data directly to a central Vital Hub located at the nursing station. This system includes an intelligent Hybrid Switching mechanism: when the hospital’s internet (Wi-Fi/Ethernet) is available, it syncs data to the cloud in real-time. If the internet fails, the system automatically switches to a private, high-speed local network (ESP-NOW) to ensure uninterrupted monitoring.
 
