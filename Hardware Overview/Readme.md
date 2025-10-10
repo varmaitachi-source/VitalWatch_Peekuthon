@@ -3,21 +3,11 @@ This directory provides the Hardware overview for the devices
 ---------Vital Watch (Wearable)-----------
 
 
-Powered by a Li-ion battery with protection (DW01 + FS8205A MOSFETs).
-
-Charging via TP4056 IC.
-
-AMS1117-3.3V regulator provides stable 3.3V for ESP and sensors.
-
-ESP8266/ESP32 microcontroller handles sensing, encryption, and transmission.
-
-Sensors: Pulse oximeter and temperature sensor.
-
-SOS Button: Manual emergency alert trigger.
+IN PROGRESS
 
 
 
----------------Vital Hub-------------
+---------------Vital Hub-----------------
 
 Receives encrypted data from multiple Vital Watches.
 
@@ -31,7 +21,7 @@ Features Ethernet and Wi-Fi for hybrid online-offline operation.
 
 
 
------------------Power Distribution------------------
+                    Power Distribution
 
 Battery → TP4056 → DW01 + FS8205A → PCU → AMS1117 → ESP + peripherals.
 
