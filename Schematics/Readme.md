@@ -1,4 +1,4 @@
-This directory contains the schematic of the printed circuit board, designed using the EDA software 
+# This directory contains the schematic of the printed circuit board, designed using the EDA software 
 
 Particularly we have added three schematics.
 
