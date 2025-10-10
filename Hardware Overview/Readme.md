@@ -1,13 +1,13 @@
-This directory provides the Hardware overview for the devices 
+#This directory provides the Hardware overview for the devices 
 
----------Vital Watch (Wearable)-----------
+          **Vital Watch (Wearable)**
 
 
 IN PROGRESS
 
 
 
----------------Vital Hub-----------------
+            **Vital Hub**
 
 Receives encrypted data from multiple Vital Watches.
 
