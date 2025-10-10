@@ -1,4 +1,4 @@
-#This directory provides the Hardware overview for the devices 
+# This directory provides the Hardware overview for the devices 
 
           **Vital Watch (Wearable)**
 
