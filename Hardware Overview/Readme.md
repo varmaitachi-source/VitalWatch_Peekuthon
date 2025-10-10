@@ -1,4 +1,6 @@
-Vital Watch (Wearable):
+This directory provides the Hardware overview for the devices 
+
+---------Vital Watch (Wearable)-----------
 
 
 Powered by a Li-ion battery with protection (DW01 + FS8205A MOSFETs).
@@ -15,7 +17,7 @@ SOS Button: Manual emergency alert trigger.
 
 
 
-Vital Hub:
+---------------Vital Hub-------------
 
 Receives encrypted data from multiple Vital Watches.
 
@@ -29,7 +31,7 @@ Features Ethernet and Wi-Fi for hybrid online-offline operation.
 
 
 
-Power Distribution:
+-----------------Power Distribution------------------
 
 Battery → TP4056 → DW01 + FS8205A → PCU → AMS1117 → ESP + peripherals.
 
