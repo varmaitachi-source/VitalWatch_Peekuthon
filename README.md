@@ -9,7 +9,7 @@ Note: **we have attached the drive links of the presentation and the demo videos
 
 **Demo Video:**
 
-Hardware details for the Vital environment - Block diagrams , architecture , flow ,  Schematics , Layouts , 3D files , testing results (proofs of the concepts)
+## Hardware details for the Vital environment - Block diagrams , architecture , flow ,  Schematics , Layouts , 3D files , testing results (proofs of the concepts)
 
 
 --------Team : ELECTROSAPIENS----------
