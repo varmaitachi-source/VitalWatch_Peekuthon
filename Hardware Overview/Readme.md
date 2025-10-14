@@ -1,13 +1,29 @@
 # This directory provides the Hardware overview for the devices 
 
-          **Vital Watch (Wearable)**
+            Vital Watch (Wearable)
 
 
-IN PROGRESS
+Hardware Overview
+
+ESP32 – Core controller for data processing and communication
+
+Vital Sensors – Heart rate, SpO₂, and temperature sensing
+
+MAX485 – RS485 communication interface
+
+Display Module – Real-time patient data visualization
+
+Ethernet + Wi-Fi – Hybrid online/offline connectivity
+
+TP4056 – Li-ion battery charging module
+
+DW01 + FS8205A – Battery protection circuit
+
+AMS1117 – 3.3V voltage regulation
 
 
 
-            **Vital Hub**
+               Vital Hub
 
 Receives encrypted data from multiple Vital Watches.
 
