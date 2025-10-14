@@ -1,6 +1,6 @@
 # Vital Watch - Hardware Repository
 
-## **Drive links 🖇️**
+## **Drive link : 🖇️**
 
 https://drive.google.com/drive/folders/1GSuyltMVsM3J4ZvPzs8H6OHYIaHikU8r?usp=sharing
 
