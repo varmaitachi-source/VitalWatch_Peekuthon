@@ -2,9 +2,7 @@
 
 ## **Drive links 🖇️**
 
-Presentation Video : https://drive.google.com/file/d/1_0rDIaYZLS-pSDvuq97DKtjpy09Xkdhl/view?usp=sharing
-
-Demo Video:
+https://drive.google.com/drive/folders/1GSuyltMVsM3J4ZvPzs8H6OHYIaHikU8r?usp=sharing
 
  **Hardware details for the Vital environment - Block diagrams , architecture , flow ,  Schematics , Layouts , 3D files , testing results (proofs of the concepts)**
 
