@@ -5,7 +5,7 @@
 Hardware details for the Vital environment - Block diagrams , architecture , flow ,  Schematics , Layouts , 3D files , testing results (proofs of the concepts)
 
 
---------Team : ELECTRO-SAPIENS----------
+--------Team : **INNOVATORS**----------
 
 Kalidindi Akash Varma         -     TEAM LEAD
 
