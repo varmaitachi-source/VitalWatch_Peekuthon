@@ -101,3 +101,9 @@ flowchart TD
 | Hybrid Switching | Online-offline automatic mode switching |
 | Bill Of Materials | Components list and sourcing |
 | images | Visual documentation |
+| Hardware Overview | Details of the Hardware |
+| Vital Watch - PCB | Schematics and Layouts of Vital_watch |
+| Mechanical enclosure | Outer Shell of Vital_watch |
+| Final Project | Actual prototype results |
+
+**Note: The actual project required for round 3 submission is displayed in the final project and mechanical enclosure directories**
